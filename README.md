@@ -20,4 +20,5 @@ Dados de entrada:
 Regra de negõcio: 
 - Para cada "viagem" o caminhão deve ser preparado com:
 -- Carroceria específica
+
 -- Seguro adequado ao tipo de mercadoria transportada
