@@ -15,6 +15,7 @@ Problema: Definir qual o tipo de veículo criar em um cenário onde a quantidade
 Dados de entrada:
 - Condição metereológica {Sol, Chuva}
 - Quantidade de pessoas 
+- Tipo de conmbustivel
 
 Regra de negõcio: 
 - Só cria objeto para distâncias até 500 km
